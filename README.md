@@ -1,4 +1,5 @@
 # OFFICE-DATA- ANALYSIS-SQL
+## SALARY.sql
 
 # ##  Project Overview
 This project focuses on querying a corporate database to manage employee records and departmental insights.
