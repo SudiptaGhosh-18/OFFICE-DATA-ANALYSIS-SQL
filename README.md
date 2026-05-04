@@ -9,7 +9,7 @@ PostgreSQL
 
 # overview about queries
 
-([./OFFICE-DATA-ANALYSIS/scema.sql](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/scema.sql)):
+([SCHEMA](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/schema.sql)):
 1.create employee table.
 2.create department table.
 
