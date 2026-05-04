@@ -13,8 +13,13 @@ PostgreSQL
 1.create employee table.
 2.create department table.
 
-([./OFFICE-DATA-ANALYSIS/SALARY.sql](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/SALARY.sql)):
+(https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/SALARY.sql):
 1.create table all employee details.
 2.show every employee name and salary whose salary paid more than 50000.
+
+(https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/JOIN.sql):
+1.Inner Join employee and department.
+2.Join through dept_id which was exist already.
+3.Show employee name from employee table then show department name from department table 
 
 #DataAnalytics #SQL #DatabaseDesign #PortfolioProject #postgresql
