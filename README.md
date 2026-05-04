@@ -8,7 +8,13 @@ This project focuses on querying a corporate database to manage employee records
 PostgreSQL
 
 # overview about queries
-create table all employee details.
-show every employee name and salary whose salary paid more than 50000.
+
+(./OFFICE-DATA-ANALYSIS/scema.sql):
+1.create employee table.
+2.create department table.
+
+(./OFFICE-DATA-ANALYSIS/SALARY.sql):
+1.create table all employee details.
+2.show every employee name and salary whose salary paid more than 50000.
 
 #DataAnalytics #SQL #DatabaseDesign #PortfolioProject #postgresql
