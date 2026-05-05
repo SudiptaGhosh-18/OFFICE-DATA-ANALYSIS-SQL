@@ -26,5 +26,9 @@ PostgreSQL
 1.Inner Join employee and department.
 2.Join through dept_id which was exist already.
 3.Show  total salary of all of employee wise of department name. 
+([EXACT_DATA](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/EXACT_DATA.sql)):
+1.Inner Join employee and department.
+2.Join through dept_id which was exist already.
+3.only got that employee name from table where employee working as HR.
 
 #DataAnalytics #SQL #DatabaseDesign #PortfolioProject #postgresql
