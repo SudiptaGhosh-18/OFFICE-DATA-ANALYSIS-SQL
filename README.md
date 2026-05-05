@@ -27,9 +27,19 @@ PostgreSQL
 2.Join through dept_id which was exist already.
 3.Show  total salary of all of employee wise of department name. 
 
+([ALPHABET](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/ALPHABET.sql)):
+1.Inner Join employee and department.
+2.Join through dept_id which was exist already.
+3.show those employee name who are working which dpartment where department's name start with C.
+
 ([EXACT_DATA](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/EXACT_DATA.sql)):
 1.Inner Join employee and department.
 2.Join through dept_id which was exist already.
 3.only got that employee name from table where employee working as HR.
+
+([TWO_CONDITION](https://github.com/SudiptaGhosh-18/OFFICE-DATA-ANALYSIS-SQL/blob/main/TWO_CONDITION.sql)):
+1.1.Inner Join employee and department.
+2.Join through dept_id which was exist already.
+3.only get that employees who working finance department with more than 50000 salary.
 
 #DataAnalytics #SQL #DatabaseDesign #PortfolioProject #postgresql
